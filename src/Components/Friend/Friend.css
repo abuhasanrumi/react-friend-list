@@ -1,0 +1,30 @@
+.section {
+    width: 50%;
+    float: left;
+    height: 300px
+}
+
+.container {
+    display: flex;
+    margin: 25px 15px;
+    border: 1px solid black;
+    padding: 10px;
+    background: lightseagreen;
+    border-radius: 10px;
+}
+
+.profile-picture {
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.friendButton {
+    width: 150px;
+    border: none;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 6px;
+    cursor: pointer;
+}

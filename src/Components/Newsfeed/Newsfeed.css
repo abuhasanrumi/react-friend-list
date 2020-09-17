@@ -1,0 +1,10 @@
+.friends-area {
+    width: 70%;
+    margin: 10px;
+}
+
+.counter-area {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
